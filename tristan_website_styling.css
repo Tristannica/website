@@ -1,0 +1,31 @@
+h1 {
+  color: #FBC31F;
+  font-family: "Raleway", sans-serif;
+}
+
+h2 {
+  color: #FBC31F;
+  text-decoration: underline;
+  font-family: "Raleway", sans-serif;
+}
+
+li {
+  color: #FBC31F;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu-container {
+  color: #fff;
+  background-color: #FBC31F;
+  padding: 20px 0;
+}
+
+.menu {
+  border: 1px solid #fff;
+  width: 900px;
+}
