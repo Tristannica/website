@@ -9,6 +9,11 @@ h2 {
   font-family: "Raleway", sans-serif;
 }
 
+p {
+  color: #F63602;
+  align-content: flex-end;
+}
+
 li {
   color: #FBC31F;
 }
