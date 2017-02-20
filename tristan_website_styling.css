@@ -1,3 +1,7 @@
+body {
+  background-image: url("IMG_2178.png");
+}
+
 h1 {
   color: #FBC31F;
   font-family: "Raleway", sans-serif;
@@ -10,12 +14,8 @@ h2 {
 }
 
 p {
-  color: #F63602;
-  align-content: flex-end;
-}
-
-li {
   color: #FBC31F;
+  align-content: flex-end;
 }
 
 * {
@@ -33,4 +33,26 @@ li {
 .menu {
   border: 1px solid #fff;
   width: 900px;
+}
+
+.gifs {
+  color: #FB0A9B;
+  margin: 10px;
+  padding: 5px;
+}
+
+.gif2 {
+  margin-left: 50px;
+}
+
+.gif3 {
+  margin-left: 100px;
+}
+
+.gif4 {
+  margin-left: 150px;
+}
+
+.gif5 {
+  margin-left: 200px;
 }
