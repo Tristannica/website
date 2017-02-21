@@ -56,3 +56,27 @@ p {
 .gif5 {
   margin-left: 200px;
 }
+
+@media screen and (max-width: 1000px) {
+  body {
+    background-color: #E30CC7;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  body {
+    background-color: #F1B708
+  }
+}
+
+@media screen and (max-width: 750px) {
+  body {
+    background-color: #1BF200;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    background-color: #15FBED;
+  }
+}
